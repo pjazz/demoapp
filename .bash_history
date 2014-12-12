@@ -250,3 +250,126 @@ rails s
 cd workspace/demoapp
 git add .
 rails s
+rails s
+rails s
+cd workspace
+cd demoapp
+rails s
+rails s
+git push origin master
+git add .
+git commit -m "final final"
+git checkout master
+git merge tweeters
+git push origin master
+git push origin master
+git push heroku master
+git remove rm heroku
+git remote rm heroku
+heroku login
+heroku login
+git add .
+heroku login
+git add .
+git remote rm heroku
+heroku login
+chmod 0600 /home/action/.netrc
+git add .
+heroku login
+heroku create
+git add .
+git commit -m "final"
+git checkout master
+git merge tweeters
+git push origin master
+git push origin master
+git push heroku master
+heroku run rake db:migrate
+git add .
+git push heroku master
+git pull heroku master
+git remote rm heroku
+heroku login
+heroku create
+git add .
+git commit -m "done"
+git checkout master
+git push origin master
+git push heroku master
+git pull heroku
+git pull heroku master
+heroku run rake db:migrate
+git add .
+git remote rm heroku
+heroku login
+heroku keys:add ~/.ssh/id_rsa.pub
+heroku create
+git push heroku master
+git push heroku master -f
+ heroku config
+git add . 
+cd demoapp
+cd workspace
+cd demoapp
+git remote rm heroku
+heroku login
+heroku create
+heroku keys:add ~/.ssh/id_rsa.pub
+git push heroku master
+git add .
+git commit -m "i hate my life"
+git checkout master
+git push origin master
+git push origin master
+git add .
+git push heroku master
+git pull heroku master
+git remote rm heroku
+git add .
+git commit -m "?"
+add ../../.heroku/usage/3.20.0  
+git add .
+git push heroku branchname:master
+git add .
+git commit -m "what?"
+git remote rm heroku
+git remote rm heroku
+git add .
+git checkout master
+git add .
+git push origin master
+git push heroku master
+heroku login
+heroku keys:add ~/.ssh/id_rsa.pub
+heroku create
+git push heroku master
+git remote rm heroku
+git add .
+cd workspace
+cd demoapp
+heroku create
+heroku keys:add ~/.ssh/id_rsa.pub
+git push heroku master
+npm install
+git push heroku master
+heroku create --stack cedar
+git push heroku master
+git remote rm heroku
+git add .
+git push origin master
+git add .
+git checkout master
+heroku create
+heroku create --stack cedar
+git push heroku master
+git remote rm heroku
+heroku create --stack cedar
+git push heroku master
+git status
+git add <heroku/usage/3.20.0>
+git status
+git add <file>
+git add <../../.heroku/usage/3.20.0>
+git status
+git add .
+git status
