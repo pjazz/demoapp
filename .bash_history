@@ -245,3 +245,8 @@ git status
 git commit -m "really final hopefully"
 git checkout master
 git merge tweeters
+ls 
+rails s
+cd workspace/demoapp
+git add .
+rails s
