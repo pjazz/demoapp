@@ -193,3 +193,21 @@ git merge tweeters
 git push origin master
 git push origin master
 git push heroku master
+push heroku
+heroku commit
+git push heroku
+git remote rm heroku
+heroku login
+heroku create
+git push heroku master
+git status
+git add .
+git status
+git commit -m "final commit"
+cd
+ls
+cd workspace
+cd demoapp
+rails s
+rails s
+git merge master
