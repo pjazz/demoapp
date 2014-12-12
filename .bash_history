@@ -211,3 +211,37 @@ cd demoapp
 rails s
 rails s
 git merge master
+git commit -m "final commit"
+git push heroku master
+ls
+cd workspace
+cd demoapp
+git merge master
+git checkout master
+git commit -m "final commit"
+git remote rm heroku
+git login
+heroku login
+heroku create
+git add . 
+git commit -m "final test"
+git checkout master
+git merge tweeters
+git push origin master
+git push heroku master
+heroku run rake db:migrate
+git checkout master
+git status
+git add .
+git status
+cd ../..
+git status
+git add .bash_history 
+git add .heroku//usage/3.20.0 
+git status
+ls
+cd workspace/demoapp/
+git status
+git commit -m "really final hopefully"
+git checkout master
+git merge tweeters
